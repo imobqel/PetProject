@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5235" started-at="2020-06-08T18:07:00 EEST" finished-at="2020-06-08T18:07:05 EEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5235" started-at="2020-06-08T18:07:00 EEST" finished-at="2020-06-08T18:07:05 EEST">
+      <class name="test.PetSmokeTest">
+        <test-method status="PASS" signature="AddPet()[pri:0, instance:test.PetSmokeTest@35d176f7]" name="AddPet" duration-ms="2446" started-at="2020-06-08T18:07:00 EEST" finished-at="2020-06-08T18:07:02 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddPet -->
+        <test-method status="PASS" signature="UpdatePet()[pri:1, instance:test.PetSmokeTest@35d176f7]" name="UpdatePet" duration-ms="917" started-at="2020-06-08T18:07:02 EEST" finished-at="2020-06-08T18:07:03 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatePet -->
+        <test-method status="PASS" signature="GetPet()[pri:2, instance:test.PetSmokeTest@35d176f7]" name="GetPet" duration-ms="944" started-at="2020-06-08T18:07:03 EEST" finished-at="2020-06-08T18:07:04 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPet -->
+        <test-method status="PASS" signature="DeletePet()[pri:3, instance:test.PetSmokeTest@35d176f7]" name="DeletePet" duration-ms="905" started-at="2020-06-08T18:07:04 EEST" finished-at="2020-06-08T18:07:05 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePet -->
+      </class> <!-- test.PetSmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
